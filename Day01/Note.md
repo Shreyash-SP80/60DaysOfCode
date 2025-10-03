@@ -1,8 +1,39 @@
+# 🚀 Day 01 – 365DaysOfCode
+
+## 📅 Date: 3rd October 2025
 
 ---
 
-This way, every day you’ll have:  
-- 📄 `notes.md` → explanation + approach + code + takeaways  
-- 💻 `code.cpp` → just the implementation  
+## 📌 What I Did Today
 
-👉 Do you want me to make a **ready-made notes.md template** (so you just fill in each day’s problem details), or should I give you custom content per problem (like above)?
+1. **Started my 60DaysOfCode challenge** – goal is to commit daily and improve my coding skills.  
+2. **Solved a Linear Search problem**  in C++:
+   - Implemented a function to return the index of a target from array.
+   - If the target is not found, returns -1.
+3. **Practiced basic DSA problems**:
+   - Palindrome number check (`palindrome_number.cpp`)
+   - Two Sum problem (`two_sum.cpp`)
+   - Reverse String (`reverse_string.cpp`)
+5. **Experimented with a small script** – file renamer in Python (`file_renamer.py`).  
+
+---
+
+## 🧠 Key Learnings
+
+- Learned how **linear search** works in detail  
+- Practiced **modular coding** by separating DSA problems into individual files.  
+- Understood the importance of **daily commits** to maintain consistency and track progress. 
+- Started thinking about **project structure**, dividing mini projects and scripts into separate folders.  
+
+
+---
+
+## ✅ Next Steps
+
+- Solve **more DSA problems** tomorrow.  
+- Experiment with **another mini script**.  
+- Keep track of commits and progress in the **root README**.  
+
+---
+
+> "Small daily improvements lead to big results over time."  
