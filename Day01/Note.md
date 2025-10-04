@@ -12,7 +12,6 @@
    - If the target is not found, returns -1.
 3. **Practiced basic DSA problems**:
    - Palindrome number check (`palindrome_number.cpp`)
-   - Two Sum problem (`two_sum.cpp`)
    - Reverse String (`reverse_string.cpp`)
 5. **Experimented with a small script** – file renamer in Python (`file_renamer.py`).  
 
