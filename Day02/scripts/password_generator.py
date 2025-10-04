@@ -12,3 +12,7 @@ def generate_password(length=10):
 if __name__ == "__main__":
     length = int(input("Enter password length: "))
     print("Generated Password:", generate_password(length))
+
+# Output
+# Enter password length: 11
+# Generated Password: biIkp;^2o(X
