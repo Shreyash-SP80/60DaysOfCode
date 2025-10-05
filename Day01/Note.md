@@ -1,4 +1,4 @@
-# 🚀 Day 01 – 365DaysOfCode
+# 🚀 Day 01 – 60DaysOfCode
 
 ## 📅 Date: 3rd October 2025
 
