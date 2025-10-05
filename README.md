@@ -10,8 +10,8 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 
 | Day | Notes | DSA Problems | Project Work | Script |
 |-----|--------|--------------|--------------|--------|
-| 1   | [Day01/notes.md](Day01/notes.md) | 4 | - | Basic File Renamer |
-| 1   | [Day01/notes.md](Day01/notes.md) | 4 | - | Basic File Renamer |
+| 1   | [Day01/notes.md](Day01/notes.md) | 3 | - | Basic File Renamer |
+| 2   | [Day02/notes.md](Day02/notes.md) | 3 | - | Basic Password Genrator |
 
 ---
 
