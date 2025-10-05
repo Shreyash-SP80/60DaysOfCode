@@ -8,8 +8,8 @@
 
 1. **Stayed consistent** with my 60DaysOfCode journey and made multiple commits throughout the day.  
 2. **Solved 3 DSA problems in C++**:
-   - Find Maximum in Array (`find_max.cpp`) → found the largest element in an array using iteration.  
-   - Check Prime (`is_prime.cpp`) → checked whether a given number is prime or not.  
+   - Check Prime (`prime_number.cpp`) → checked whether a given number is prime or not.  
+   - Digit sum (`sum_of_digits.cpp`) → calculate the digit sum of the given number. 
    - Factorial of a Number (`factorial.cpp`) → calculated factorial using both iterative and recursive approaches.  
 3. **Created a Python script** – *File Sorter (`file_sorter.py`)* that organizes files in a folder by type.  
 
