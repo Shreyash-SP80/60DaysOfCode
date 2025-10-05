@@ -21,3 +21,15 @@
 - Practiced writing **clean, modular code** for reusability and better readability.  
 - Understood how to work with **file handling and directory management** in Python.  
 - Realized that automating small tasks can **save time** and make workflow efficient.  
+
+---
+
+## ✅ Next Steps
+
+- Practice 2–3 more DSA problems involving **arrays and strings**.  
+- Enhance the File Sorter script (add more file type categories).  
+- Push daily commits early to maintain streak consistency.  
+
+---
+
+> "Progress is made one line of code at a time — keep building every day."
