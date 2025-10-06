@@ -6,7 +6,7 @@ int factorial(int n) {
     for (int i = 1; i <= n; ++i)
         fact *= i;
     return fact;
-}
+} 
 
 int main() {
     int num, originalNum, remainder, sum = 0;
@@ -29,3 +29,4 @@ int main() {
 
     return 0;
 }
+
