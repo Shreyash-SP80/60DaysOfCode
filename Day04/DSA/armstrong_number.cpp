@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int num, originalNum, remainder, n = 0;
-    double result = 0.0;
+    double result = 0.0; 
 
     cout << "Enter a number: ";
     cin >> num;
@@ -33,3 +33,4 @@ int main() {
 
     return 0;
 }
+
