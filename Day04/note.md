@@ -23,3 +23,13 @@
 - Realized the importance of **daily scripting practice** to automate small tasks and improve productivity.  
 
 ---
+
+## ✅ Next Steps
+
+- Solve **more array and string problems** tomorrow.  
+- Enhance the To-Do List script by adding features like saving tasks to a file.  
+- Keep documenting **DSA and script progress** clearly in notes and README.  
+
+---
+
+> "Consistency and small daily wins lead to big results over time."
