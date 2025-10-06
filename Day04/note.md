@@ -14,7 +14,7 @@
 3. **Created a Python script** – *Simple To-Do List (`todo_list.py`)* to manage tasks from the command line.  
 
 ---
-
+ 
 ## 🧠 Key Learnings
 
 - Practiced **number-based logic problems** and learned different ways to analyze digits.  
