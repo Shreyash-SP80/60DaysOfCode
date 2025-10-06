@@ -48,3 +48,43 @@ while True:
         break
     else:
         print("⚠️ Invalid option. Try again.")
+
+# Output =>
+# 📝 To-Do List Menu
+# 1. Add Task
+# 2. View Tasks
+# 3. Remove Task
+# 4. Exit
+# Enter your choice (1-4): 1
+# Enter new task: Learn new concept
+# ✅ Task added successfully!
+
+# 📝 To-Do List Menu
+# 1. Add Task
+# 2. View Tasks
+# 3. Remove Task
+# 4. Exit
+# Enter your choice (1-4): 2
+
+# Your Tasks:
+# 1. Learn new concept
+
+# 📝 To-Do List Menu
+# 1. Add Task
+# 2. View Tasks
+# 3. Remove Task
+# 4. Exit
+# Enter your choice (1-4): 3
+
+# Your Tasks:
+# 1. Learn new concept
+# Enter task number to remove: 1
+# ❌ Removed: Learn new concept
+
+# 📝 To-Do List Menu
+# 1. Add Task
+# 2. View Tasks
+# 3. Remove Task
+# 4. Exit
+# Enter your choice (1-4): 4
+# 👋 Exiting To-Do App. Have a productive day!
