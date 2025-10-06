@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int num, sum = 0;
 
-    cout << "Enter a number: ";
+    cout << "Enter a number: "; 
     cin >> num;
 
     // Sum of proper divisors
@@ -20,3 +20,4 @@ int main() {
 
     return 0;
 }
+
