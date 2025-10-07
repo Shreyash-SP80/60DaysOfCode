@@ -13,7 +13,7 @@
    - GCD of Two Numbers (`gcd_two_numbers.cpp`) → implemented Euclid’s algorithm to find the greatest common divisor of two integers.  
 3. **Created a Python script** – *Simple Expense Tracker (`expense_tracker.py`)* to manage daily expenses and calculate the total.  
 
----
+--- 
 
 ## Key Learnings
 
