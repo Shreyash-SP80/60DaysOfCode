@@ -1,4 +1,4 @@
-# 60 Days of Code 🚀
+# 60 Days of Code 
 
 Welcome to my **60DaysOfCode Challenge**!  
 I will be committing daily progress including **DSA problems, mini projects, scripts, and learning notes**.  
