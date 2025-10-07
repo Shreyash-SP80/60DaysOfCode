@@ -9,7 +9,7 @@ def show_menu():
     print("4. Exit")
 
 def add_expense():
-    try:
+    try: 
         amount = float(input("Enter expense amount: "))
         desc = input("Enter description: ")
         expenses.append((desc, amount))
@@ -103,3 +103,4 @@ while True:
 # 4. Exit
 # Enter your choice (1-4): 4
 # 👋 Exiting Expense Tracker. Stay organized!
+
