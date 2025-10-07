@@ -44,3 +44,62 @@ while True:
         break
     else:
         print("⚠️ Invalid option. Try again.")
+
+# Output =>
+# 💰 Expense Tracker Menu
+# 1. Add Expense
+# 2. View Expenses
+# 3. Show Total
+# 4. Exit
+# Enter your choice (1-4): 1
+# Enter expense amount: 200
+# Enter description: Groceries    
+# ✅ Expense added successfully!
+
+# 💰 Expense Tracker Menu
+# 1. Add Expense
+# 2. View Expenses
+# 3. Show Total
+# 4. Exit
+# Enter your choice (1-4): 2
+
+# Your Expenses:
+# 1. Groceries - ₹200.0
+
+# 💰 Expense Tracker Menu
+# 1. Add Expense
+# 2. View Expenses
+# 3. Show Total
+# 4. Exit
+# Enter your choice (1-4): 1
+# Enter expense amount: 500
+# Enter description: Utilities
+# ✅ Expense added successfully!
+
+# 💰 Expense Tracker Menu
+# 1. Add Expense
+# 2. View Expenses
+# 3. Show Total
+# 4. Exit
+# Enter your choice (1-4): 2
+
+# Your Expenses:
+# 1. Groceries - ₹200.0
+# 2. Utilities - ₹500.0
+
+# 💰 Expense Tracker Menu
+# 1. Add Expense
+# 2. View Expenses
+# 3. Show Total
+# 4. Exit
+# Enter your choice (1-4): 3
+
+# 💵 Total Expenses: ₹700.0
+
+# 💰 Expense Tracker Menu
+# 1. Add Expense
+# 2. View Expenses
+# 3. Show Total
+# 4. Exit
+# Enter your choice (1-4): 4
+# 👋 Exiting Expense Tracker. Stay organized!
