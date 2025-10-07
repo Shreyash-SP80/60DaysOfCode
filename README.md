@@ -14,6 +14,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 | 2   | [Day02/notes.md](Day02/note.md) | 3 | - | Basic Password Genrator |
 | 3   | [Day03/notes.md](Day03/note.md) | 3 | - | file sortener |
 | 4   | [Day04/notes.md](Day04/note.md) | 3 | - | Todo list |
+| 5   | [Day05/notes.md](Day05/note.md) | 3 | - | Todo list |
 
 ---
 
