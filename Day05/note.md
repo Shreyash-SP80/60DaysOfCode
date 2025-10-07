@@ -21,3 +21,15 @@
 - Strengthened understanding of **loops, conditionals, and functions** across both C++ and Python.  
 - Learned how to **structure a script** with functions for modularity and readability.  
 - Understood the importance of **small, practical scripts** that solve real-world problems.  
+
+---
+
+## Next Steps
+
+- Solve **more string and number problems** tomorrow.  
+- Add **persistence feature** to Expense Tracker (saving data to a file).  
+- Keep pushing daily commits and updating the root README to track progress.  
+
+---
+
+> "Daily practice builds both skill and discipline over time."
