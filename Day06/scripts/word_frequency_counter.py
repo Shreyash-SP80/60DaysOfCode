@@ -38,3 +38,10 @@ if __name__ == "__main__":
             print("❌ File not found. Please check the path and try again.")
     else:
         print("Invalid choice. Please enter 1 or 2.")
+
+# Output =>
+# Word Frequency Count:
+# hello: 2
+# world: 1
+# python: 3
+
