@@ -7,7 +7,7 @@ bool isPalindrome(string str) {
     int right = str.length() - 1;
 
     while (left < right) {
-        if (str[left] != str[right])
+        if (str[left] != str[right]) 
             return false;
         left++;
         right--;
@@ -27,3 +27,4 @@ int main() {
 
     return 0;
 }
+
