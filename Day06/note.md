@@ -24,3 +24,13 @@
 - Understood how to **handle encoding errors** and safely read files.
 
 ---
+
+## Next Steps
+
+- Solve **pattern and recursion-based problems** tomorrow in C++.  
+- Enhance the Word Frequency Counter to **ignore stopwords** and **visualize word counts** using charts.  
+- Continue making **daily commits** and updating my progress documentation.
+
+---
+
+> "Growth happens one consistent line of code at a time."
