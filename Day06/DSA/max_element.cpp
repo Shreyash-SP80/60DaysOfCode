@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n;
     cout << "Enter number of elements: ";
-    cin >> n;
+    cin >> n; 
 
     int *arr = new int[n];
     cout << "Enter " << n << " elements: ";
@@ -21,3 +21,4 @@ int main() {
     cout << "Maximum element = " << maxVal << endl;
     return 0;
 }
+
