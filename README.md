@@ -16,7 +16,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 | 4   | [Day04/notes.md](Day04/note.md) | 3 | - | Todo list |
 | 5   | [Day05/notes.md](Day05/note.md) | 3 | - | Simple Expense Tracker |
 | 6   | [Day06/notes.md](Day06/note.md) | 3 | - | Word Frequency Counter | 
-| 7   | [Day07/notes.md](Day07/note.md) | 3 | - | Word Frequency Counter | 
+| 7   | [Day07/notes.md](Day07/note.md) | 3 | - | Number Guessing Game | 
 
 
 ---
