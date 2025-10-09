@@ -26,3 +26,33 @@ def number_guessing_game():
 
 if __name__ == "__main__":
     number_guessing_game()
+
+# Output =>
+# Welcome to the Number Guessing Game!
+# I'm thinking of a number between 1 and 10.
+# Enter your guess: 1
+# Too low! Try again.
+# Enter your guess: 2
+# Too low! Try again.
+# Enter your guess: 10
+# Too high! Try again.
+# Enter your guess: 2
+# Too low! Try again.
+# Enter your guess: 3
+# Too low! Try again.
+# Enter your guess: 4
+# Too low! Try again.
+# Enter your guess: 5
+# Too low! Try again.
+# Enter your guess: 6
+# Too low! Try again.
+# Enter your guess: 7
+# Too low! Try again.
+# Enter your guess: 1
+# Too low! Try again.
+# Enter your guess: 2
+# Too low! Try again.
+# Enter your guess: 8 
+# Too low! Try again.
+# Enter your guess: 9
+# 🎉 Congratulations! You guessed the number 9 in 13 attempts.
