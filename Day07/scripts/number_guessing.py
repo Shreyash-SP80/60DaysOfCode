@@ -29,30 +29,11 @@ if __name__ == "__main__":
 
 # Output =>
 # Welcome to the Number Guessing Game!
-# I'm thinking of a number between 1 and 10.
-# Enter your guess: 1
+# I'm thinking of a number between 1 and 50.
+# Enter your guess: 25
 # Too low! Try again.
-# Enter your guess: 2
-# Too low! Try again.
-# Enter your guess: 10
+# Enter your guess: 40
 # Too high! Try again.
-# Enter your guess: 2
-# Too low! Try again.
-# Enter your guess: 3
-# Too low! Try again.
-# Enter your guess: 4
-# Too low! Try again.
-# Enter your guess: 5
-# Too low! Try again.
-# Enter your guess: 6
-# Too low! Try again.
-# Enter your guess: 7
-# Too low! Try again.
-# Enter your guess: 1
-# Too low! Try again.
-# Enter your guess: 2
-# Too low! Try again.
-# Enter your guess: 8 
-# Too low! Try again.
-# Enter your guess: 9
-# 🎉 Congratulations! You guessed the number 9 in 13 attempts.
+# Enter your guess: 32
+# 🎉 Congratulations! You guessed the number 32 in 3 attempts.
+
