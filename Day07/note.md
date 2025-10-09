@@ -14,3 +14,23 @@
 3. **Created a Python script** – *Number Guessing Game (`number_guessing.py`)* for interactive practice with loops, conditionals, and random numbers.  
 
 ---
+
+## Key Learnings
+
+- Improved understanding of **array traversal, comparison logic, and edge case handling**.  
+- Practiced **recursion** in C++ for factorial computation.  
+- Reinforced **loops, conditionals, and random number generation** in Python.  
+- Learned to structure **interactive scripts** that can be reused and modified for different tasks.  
+- Strengthened **problem-solving mindset** by combining DSA and scripting practice in a single day.  
+
+---
+
+## Next Steps
+
+- Solve **more string and array pattern problems** tomorrow.  
+- Enhance Number Guessing Game to **track scores or allow multiple rounds**.  
+- Continue **daily commits** and updating root README to track overall progress.  
+
+---
+
+> "Consistency and small daily wins create long-term coding mastery."
