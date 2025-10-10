@@ -24,3 +24,10 @@ int main() {
 
     return 0;
 }
+
+// Output =>
+// Input: Hello@2025
+// Output:
+// Alphabets = 5
+// Digits = 4
+// Special Characters = 1
