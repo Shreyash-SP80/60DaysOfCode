@@ -24,3 +24,7 @@ int main() {
 
     return 0;
 }
+
+// Output =>
+// Input: listen, silent
+// Output: Strings are anagrams
