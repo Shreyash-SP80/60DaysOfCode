@@ -33,3 +33,12 @@ def list_file_sizes(folder_path):
 if __name__ == "__main__":
     folder = input("Enter folder path to check file sizes: ")
     list_file_sizes(folder)
+
+# Output =>
+# Enter folder path to check file sizes: D:\Apti
+
+# 📂 File Size Report
+# ----------------------------------------
+# Quantitative Aptitude And Reasoning ( Pdfdrive ).pdf 13.20 MB
+# ----------------------------------------
+# Total Size: 13.20 MB
