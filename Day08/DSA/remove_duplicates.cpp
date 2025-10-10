@@ -22,3 +22,7 @@ int main() {
         cout << arr[i] << " ";
     return 0;
 }
+
+// Output =>
+// Input: arr = [1, 1, 2, 2, 3, 4, 4]
+// Output: [1, 2, 3, 4]
