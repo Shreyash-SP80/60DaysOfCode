@@ -4,7 +4,7 @@
 
 ---
 
-## What I Did Today
+## What I Did Today 
 
 1. Continued my **60DaysOfCode challenge** with focus on improving **string manipulation and logical thinking**.  
 2. **Solved 3 DSA problems in C++**:
