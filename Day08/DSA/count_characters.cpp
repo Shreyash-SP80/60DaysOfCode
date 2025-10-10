@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     string str;
-    cout << "Enter a string: ";
+    cout << "Enter a string: "; 
     cin >> str;
 
     int alphabets = 0, digits = 0, special = 0;
@@ -31,3 +31,4 @@ int main() {
 // Alphabets = 5
 // Digits = 4
 // Special Characters = 1
+
