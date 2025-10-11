@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int n;
+    int n; 
     cout << "Enter number of elements: ";
     cin >> n; 
 
@@ -20,4 +20,5 @@ int main() {
     cout << "Sum of array elements = " << sum << endl;
     return 0;
 }
+
 
