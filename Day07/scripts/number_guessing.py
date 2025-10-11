@@ -5,7 +5,7 @@ def number_guessing_game():
     print("Welcome to the Number Guessing Game!")
     print("I'm thinking of a number between 1 and 10.")
     
-    secret_number = random.randint(1, 10)
+    secret_number = random.randint(1, 10) 
     attempts = 0
     guessed = False
 
@@ -36,4 +36,5 @@ if __name__ == "__main__":
 # Too high! Try again.
 # Enter your guess: 32
 # 🎉 Congratulations! You guessed the number 32 in 3 attempts.
+
 
