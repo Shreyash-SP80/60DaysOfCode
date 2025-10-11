@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n;
     cout << "Enter number of elements: ";
-    cin >> n;
+    cin >> n; 
 
     int *arr = new int[n];
     cout << "Enter " << n << " elements: ";
@@ -24,3 +24,4 @@ int main() {
 
     return 0;
 }
+
