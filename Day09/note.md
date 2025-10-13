@@ -24,3 +24,13 @@
 - Maintained focus on **clean code practices and logical structuring** in both languages.
 
 ---
+
+## Next Steps
+
+- Move toward **searching and sorting algorithms** in C++ tomorrow.  
+- Enhance the Python script to **log system information into a text file** automatically.  
+- Keep making **consistent commits** and documenting daily progress effectively.
+
+---
+
+> "Every day’s effort compounds — stay consistent, stay curious, keep building."
