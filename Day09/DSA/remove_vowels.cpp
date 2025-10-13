@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-using namespace std;
+using namespace std; 
 
 string removeVowels(string s) {
     string result = "";
@@ -23,3 +23,4 @@ int main() {
 // Output =>
 // Enter a string: Programming is fun
 // String after removing vowels: Prgrmmng s fn
+
