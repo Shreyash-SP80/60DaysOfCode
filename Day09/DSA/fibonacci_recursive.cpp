@@ -2,7 +2,7 @@
 using namespace std;
 
 int fibonacci(int n) {
-    if (n <= 1)
+    if (n <= 1) 
         return n;
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
@@ -20,3 +20,4 @@ int main() {
 // Output => 
 // Enter number of terms: 6
 // Fibonacci Series: 0 1 1 2 3 5
+
