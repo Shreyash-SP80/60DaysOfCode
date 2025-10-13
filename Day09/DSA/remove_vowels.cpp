@@ -19,3 +19,7 @@ int main() {
     cout << "String without vowels: " << removeVowels(input);
     return 0;
 }
+
+// Output =>
+// Enter a string: Programming is fun
+// String after removing vowels: Prgrmmng s fn
