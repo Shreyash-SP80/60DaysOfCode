@@ -19,3 +19,8 @@ int main() {
     cout << "Missing number is: " << findMissingNumber(arr, n);
     return 0;
 }
+
+// Output =>
+// Enter size of array: 5
+// Enter elements: 1 2 4 5 6
+// Missing number is: 3
