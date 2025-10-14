@@ -18,6 +18,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 | 6   | [Day06/notes.md](Day06/note.md) | 3 | - | Word Frequency Counter | 
 | 7   | [Day07/notes.md](Day07/note.md) | 3 | - | Number Guessing Game | 
 | 8   | [Day08/notes.md](Day08/note.md) | 3 | - | File Size Checker | 
+| 9   | [Day09/notes.md](Day09/note.md) | 3 | - | File Size Checker | 
 
 
 ---
