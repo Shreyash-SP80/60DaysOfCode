@@ -19,7 +19,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 | 7   | [Day07/notes.md](Day07/note.md) | 3 | - | Number Guessing Game | 
 | 8   | [Day08/notes.md](Day08/note.md) | 3 | - | File Size Checker | 
 | 9   | [Day09/notes.md](Day09/note.md) | 3 | - | File Size Checker | 
-| 10   | [Day10/notes.md](Day10/note.md) | 3 | - | Folder Cleaner | 
+| 10   | [Day10/notes.md](Day10/note.md) | 3 | - | System Info | 
 
 
 ---
