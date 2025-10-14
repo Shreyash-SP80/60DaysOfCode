@@ -22,3 +22,15 @@
 - Enhanced practical coding habits by writing clean, modular functions in C++.  
 - Improved automation skills through **Python scripting** using the `os` and `shutil` modules.  
 - Understood the importance of maintaining an **organized project workspace** and efficient file management.
+
+---
+
+## Next Steps
+
+- Continue learning **Tree Traversals** (Inorder, Preorder, Postorder).  
+- Add functionality to the Folder Organizer to **handle files without extensions** or **duplicate names**.  
+- Keep pushing daily commits and documenting the **DSA + scripting progress** clearly.
+
+---
+
+> “Understanding data structures like trees builds a strong foundation — keep learning, keep branching out.”
