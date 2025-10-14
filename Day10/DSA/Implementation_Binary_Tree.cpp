@@ -49,4 +49,37 @@ int main() {
     root = buildBinaryTree(root);  // Call the buildBinaryTree() to create an binary tree and returns the complete binary tree
     cout << "Binary Tree created.." << endl;
     return 0;
+
 }
+
+// Output =>
+// Enter data: 10
+// Enter data for inserting left of 10
+// Enter data: 20
+// Enter data for inserting left of 20
+// Enter data: 35
+// Enter data for inserting left of 35
+// Enter data: -1
+// Enter data for inserting right of 35
+// Enter data: -1
+// Enter data for inserting right of 20
+// Enter data: 25
+// Enter data for inserting left of 25
+// Enter data: -1
+// Enter data for inserting right of 25
+// Enter data: -1
+// Enter data for inserting right of 10
+// Enter data: 35
+// Enter data for inserting left of 35
+// Enter data: 80
+// Enter data for inserting left of 80
+// Enter data: -1
+// Enter data for inserting right of 80
+// Enter data: -1
+// Enter data for inserting right of 35
+// Enter data: 90
+// Enter data for inserting left of 90
+// Enter data: -1
+// Enter data for inserting right of 90
+// Enter data: -1
+// Binary Tree created..
