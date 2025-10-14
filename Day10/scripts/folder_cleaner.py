@@ -21,3 +21,32 @@ def organize_folder(path):
 if __name__ == "__main__":
     folder_path = input("Enter the path to organize: ")
     organize_folder(folder_path)
+
+# Output =>
+# Enter the path to organize: D:\MyFiles
+
+# D:\MyFiles\
+# │
+# ├── photo.jpg
+# ├── resume.pdf
+# ├── notes.txt
+# ├── script.py
+# ├── movie.mp4
+
+# ✅ Folder organized successfully!
+# D:\MyFiles\
+# │
+# ├── JPG_Files\
+# │   └── photo.jpg
+# │
+# ├── PDF_Files\
+# │   └── resume.pdf
+# │
+# ├── TXT_Files\
+# │   └── notes.txt
+# │
+# ├── PY_Files\
+# │   └── script.py
+# │
+# ├── MP4_Files\
+# │   └── movie.mp4
