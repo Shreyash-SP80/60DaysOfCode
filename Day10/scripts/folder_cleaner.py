@@ -5,7 +5,7 @@ def organize_folder(path):
     if not os.path.exists(path):
         print("Invalid path!")
         return
-
+ 
     files = os.listdir(path)
     for file in files:
         full_path = os.path.join(path, file)
@@ -50,3 +50,4 @@ if __name__ == "__main__":
 # │
 # ├── MP4_Files\
 # │   └── movie.mp4
+
