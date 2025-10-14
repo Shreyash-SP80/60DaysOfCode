@@ -71,3 +71,39 @@ int main() {
     levelOrderTraversal(root); 
     return 0;
 }
+
+// Output =>
+// Enter data: 10
+// Enter data for inserting left of 10
+// Enter data: 20
+// Enter data for inserting left of 20
+// Enter data: 35
+// Enter data for inserting left of 35
+// Enter data: -1
+// Enter data for inserting right of 35
+// Enter data: -1
+// Enter data for inserting right of 20
+// Enter data: 25
+// Enter data for inserting left of 25
+// Enter data: -1
+// Enter data for inserting right of 25
+// Enter data: -1
+// Enter data for inserting right of 10
+// Enter data: 35
+// Enter data for inserting left of 35
+// Enter data: 80
+// Enter data for inserting left of 80
+// Enter data: -1
+// Enter data for inserting right of 80
+// Enter data: -1
+// Enter data for inserting right of 35
+// Enter data: 90
+// Enter data for inserting left of 90
+// Enter data: -1
+// Enter data for inserting right of 90
+// Enter data: -1
+
+// Binary Tree
+// 10
+// 20 35
+// 35 25 80 90
