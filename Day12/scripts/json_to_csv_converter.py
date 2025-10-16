@@ -16,3 +16,8 @@ if __name__ == "__main__":
     json_path = input("Enter JSON file path: ")
     csv_path = input("Enter output CSV file path: ")
     json_to_csv(json_path, csv_path)
+
+# Output =>
+# Enter JSON file path: data.json
+# Enter output CSV file path: data.csv
+# ✅ Successfully converted data.json to data.csv
