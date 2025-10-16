@@ -49,8 +49,6 @@ void buildFromLevelOrder(node* &root) {
     }
  }
 
-
-
 void levelOrderTraversal(node* root) {
     queue<node*> q;
     q.push(root);
@@ -61,35 +59,35 @@ void levelOrderTraversal(node* root) {
         q.pop();
 
         if(temp == NULL) { 
-            //purana level complete traverse ho chuka hai
             cout << endl;
-            if(!q.empty()) { 
-                //queue still has some child ndoes
-                q.push(NULL);
-            }  
+            if(!q.empty()) q.push(NULL);
         }
         else{
             cout << temp -> data << " ";
-            if(temp ->left) {
-                q.push(temp ->left);
-            }
-
-            if(temp ->right) {
-                q.push(temp ->right);
-            }
+            if(temp ->left) q.push(temp ->left);
+            if(temp ->right) q.push(temp ->right);
         }
     }
-
 }
 
-// 10 20 35 90 94 25 29 -1 -1
-
+// Example Input: 10 20 35 90 94 25 29 -1 -1
 int main() {
-
     node* root = NULL;
-
     buildFromLevelOrder(root);
+    cout << "\nLevel Order Traversal:\n";
     levelOrderTraversal(root);
-
     return 0;
 }
+
+// Output => 
+// Enter data for root: 10
+// Enter left node for: 10 : 20
+// Enter right node for: 10 : 35
+// Enter left node for: 20 : 90
+// Enter right node for: 20 : 94
+// Enter left node for: 35 : 25
+// Enter right node for: 35 : 29
+// Level Order Traversal:
+// 10 
+// 20 35 
+// 90 94 25 29
