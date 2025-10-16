@@ -65,3 +65,12 @@ int main() {
     cout << "\nLevel of Tree: " << cnt << endl;
     return 0;
 }
+
+// Output => 
+// Level Order Traversal:
+// 10 
+// 20 35 
+// 35 25 80 90 
+// Level of Tree: 3
+
+
