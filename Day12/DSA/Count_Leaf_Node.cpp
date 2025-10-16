@@ -73,3 +73,24 @@ int main() {
     cout << "\nLeaf Nodes: " << cnt << endl;
     return 0;
 }
+
+// Output =>
+// Enter data: 10
+// Enter data for inserting left of 10
+// 20
+// Enter data for inserting left of 20
+// 35
+// Enter data for inserting right of 20
+// 25
+// Enter data for inserting right of 10
+// 35
+// Enter data for inserting left of 35
+// 80
+// Enter data for inserting right of 35
+// 90
+// Level Order Traversal:
+// 10 
+// 20 35 
+// 35 25 80 90 
+// Leaf Nodes: 4
+
