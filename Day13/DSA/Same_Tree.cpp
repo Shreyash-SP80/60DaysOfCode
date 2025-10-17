@@ -75,3 +75,16 @@ int main() {
 
     return 0;
 }
+
+// Tree 1 (Level Order):
+// 1 
+// 2 3 
+// null null null null 
+
+// Tree 2 (Level Order):
+// 1 
+// 2 3 
+// null null null null 
+
+// Are both trees the same? Yes
+
