@@ -84,3 +84,14 @@ int main() {
 
     return 0;
 }
+
+// Output =>
+// Level Order Traversal:
+// 1 
+// 2 2 
+// 3 4 4 3 
+// null null null null null null null null 
+
+// Is the tree symmetric? Yes
+
+
