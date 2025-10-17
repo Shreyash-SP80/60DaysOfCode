@@ -81,3 +81,13 @@ int main() {
 
     return 0;
 }
+
+// Output =>
+// preorder = [3,9,20,15,7]
+// inorder = [9,3,15,20,7]
+// Level Order Traversal of Constructed Tree:
+// 3 
+// 9 20 
+// null null 15 7 
+// null null null null 
+
