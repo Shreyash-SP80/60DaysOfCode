@@ -1,1 +1,0 @@
-    with open(LOG_FILE, "a", encoding="utf-8") as f:
