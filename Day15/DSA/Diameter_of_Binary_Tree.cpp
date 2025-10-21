@@ -35,3 +35,6 @@ int main() {
     cout << "Diameter of the Binary Tree: " << diameterOfBinaryTree(root) << endl;
     return 0;
 }
+
+// Output =>
+// Diameter of the Binary Tree: 3
