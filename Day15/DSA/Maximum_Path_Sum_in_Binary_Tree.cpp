@@ -37,3 +37,6 @@ int main() {
     cout << "Maximum Path Sum: " << maxPathSum(root) << endl;
     return 0;
 }
+
+// Output =>
+// Maximum Path Sum: 42
