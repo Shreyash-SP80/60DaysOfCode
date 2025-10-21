@@ -23,3 +23,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Output =>
+# Enter Day Number: 15
+# Enter problems solved today (comma separated): Diameter of Binary Tree, Lowest Common Ancestor, Maximum Path Sum
+# Enter any notes/thoughts for today: Practiced tree traversal and recursion
+# ✅ Logged Day 15 session successfully!
+
