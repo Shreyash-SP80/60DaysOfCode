@@ -32,3 +32,6 @@ int main() {
     cout << "Lowest Common Ancestor: " << lca->val << endl;
     return 0;
 }
+
+// Output =>
+// Lowest Common Ancestor: 5
