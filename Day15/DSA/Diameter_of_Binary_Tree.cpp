@@ -8,7 +8,7 @@ public:
     TreeNode* right;
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
-
+ 
 int diameterHelper(TreeNode* root, int &maxDiameter) {
     if (!root) return 0;
 
@@ -38,3 +38,4 @@ int main() {
 
 // Output =>
 // Diameter of the Binary Tree: 3
+
