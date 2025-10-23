@@ -10,7 +10,7 @@ public:
     TreeNode* right;
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
-
+ 
 int maxPathSumHelper(TreeNode* root, int &maxSum) {
     if (!root) return 0;
 
@@ -40,3 +40,4 @@ int main() {
 
 // Output =>
 // Maximum Path Sum: 42
+
