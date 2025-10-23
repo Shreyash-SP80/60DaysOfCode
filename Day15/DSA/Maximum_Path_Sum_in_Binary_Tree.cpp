@@ -5,7 +5,7 @@ using namespace std;
 
 class TreeNode {
 public:
-    int val;
+    int val; 
     TreeNode* left;
     TreeNode* right;
     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
@@ -40,4 +40,5 @@ int main() {
 
 // Output =>
 // Maximum Path Sum: 42
+
 
