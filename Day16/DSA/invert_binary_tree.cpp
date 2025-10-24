@@ -41,3 +41,7 @@ int main() {
     printInorder(root);
     return 0;
 }
+
+// Output  =>
+// Original Tree (Inorder): 1 2 3 4 6 7 9 
+// Inverted Tree (Inorder): 9 7 6 4 3 2 1
