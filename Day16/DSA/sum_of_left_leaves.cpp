@@ -25,6 +25,11 @@ int main() {
     root->right->left = new TreeNode(15);
     root->right->right = new TreeNode(7);
 
+// Output =>
+// Sum of Left Leaves: 24
+
+
     cout << "Sum of Left Leaves: " << sumOfLeftLeaves(root);
     return 0;
 }
+
