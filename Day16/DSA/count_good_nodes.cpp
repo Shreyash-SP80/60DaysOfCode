@@ -36,3 +36,6 @@ int main() {
     cout << "Number of Good Nodes: " << goodNodes(root);
     return 0;
 }
+
+// Output =>
+// Number of Good Nodes: 4
