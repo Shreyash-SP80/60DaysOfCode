@@ -18,3 +18,7 @@ def git_auto_commit(day):
 if __name__ == "__main__":
     day = input("Enter Day Number: ")
     git_auto_commit(day)
+
+# Output =>
+# Enter Day Number: 17
+# ✅ Git commit pushed successfully for Day 17
