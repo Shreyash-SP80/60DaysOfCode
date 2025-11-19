@@ -27,6 +27,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 | 15   | [Day15/notes.md](Day15/note.md) | 3 | - | Daily Coding Tracker | 
 | 16   | [Day16/notes.md](Day16/note.md) | 3 | - | Git auto commit | 
 | 17   | [Day17/notes.md](Day17/note.md) | 3 | - | Increase performace of laptop | 
+| 18   | [Day18/notes.md](Day18/note.md) | 3 | - | C++ file runner | 
 
 
 
