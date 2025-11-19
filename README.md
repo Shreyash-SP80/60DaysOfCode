@@ -24,7 +24,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 | 12   | [Day12/notes.md](Day12/note.md) | 3 | - | Json to csv converter | 
 | 13   | [Day13/notes.md](Day13/note.md) | 3 | - | Progress log | 
 | 14   | [Day14/notes.md](Day14/note.md) | 3 | - | Automation Script | 
-| 15   | [Day15/notes.md](Day15/note.md) | 3 | - | Daily Coding Tracker | 
+| 15   | [Day15/notes.md](Day15/note.md) | 2 | - | Daily Coding Tracker | 
 | 16   | [Day16/notes.md](Day16/note.md) | 3 | - | Git auto commit | 
 | 17   | [Day17/notes.md](Day17/note.md) | 3 | - | Increase performace of laptop | 
 | 18   | [Day18/notes.md](Day18/note.md) | 3 | - | C++ file runner | 
