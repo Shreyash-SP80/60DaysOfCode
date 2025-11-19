@@ -38,3 +38,21 @@
 | Python | `run_cpp.py` | Automates compiling and running C++ programs |
 
 ---
+
+## Next Steps
+
+- Solve more Linked List problems (reverse list, K-group swaps, cycle detection).  
+- Implement custom linked list utility functions for faster debugging.  
+- Expand the Python automation script to:
+  - Track execution time  
+  - Watch file changes (auto-run on save)  
+  - Manage multiple C++ test files  
+
+---
+
+## Quote of the Day
+
+"Automation turns good habits into effortless routines."
+
+---
+
