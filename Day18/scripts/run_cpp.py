@@ -1,7 +1,7 @@
 import os
 import subprocess
 import sys
-
+# This script is used for automate c++ file running process
 def compile_and_run(filename):
     if not filename.endswith(".cpp"):
         print("Error: Please provide a .cpp file")
@@ -18,7 +18,7 @@ def compile_and_run(filename):
 
     # If any compilation errors
     if compile_process.returncode != 0:
-        print("❌ Compilation Failed:")
+        print("❌ Compilation Failed:") 
         print(compile_process.stderr)
         return
 
@@ -37,3 +37,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
