@@ -4,7 +4,7 @@ using namespace std;
 
 /* 
 ---------------------------------------------
-   LeetCode 83: Remove Duplicates from Sorted List
+   LeetCode 83: Remove Duplicates from Sorted List 
 ---------------------------------------------
 
 Question:
@@ -107,3 +107,4 @@ Output:
 List after removing duplicates: 1 2 3 
 ---------------------------------------------
 */
+
