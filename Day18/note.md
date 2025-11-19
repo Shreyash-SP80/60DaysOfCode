@@ -16,3 +16,16 @@
    File: `run_cpp.py`
 
 ---
+
+## Key Learnings
+
+- Improved understanding of pointer manipulation in linked lists.  
+- Learned how dummy nodes simplify edge cases in linked list operations.  
+- Practiced writing clean and efficient solutions for in-place modifications.  
+- Built a Python script that automates:
+  - Compiling C++ code  
+  - Executing output  
+  - Printing errors clearly  
+- Boosted productivity with automation and clean coding habits.
+
+---
