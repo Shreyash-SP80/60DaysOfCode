@@ -29,3 +29,12 @@
 - Boosted productivity with automation and clean coding habits.
 
 ---
+## Code Files Overview
+
+| Language | File Name | Description |
+|----------|-----------|-------------|
+| C++ | `swap_nodes_pairs.cpp` | Swaps adjacent nodes in a linked list (Problem 24) |
+| C++ | `remove_duplicates_ll.cpp` | Removes duplicates from a sorted linked list (Problem 83) |
+| Python | `run_cpp.py` | Automates compiling and running C++ programs |
+
+---
