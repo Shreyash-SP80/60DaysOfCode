@@ -36,6 +36,20 @@ def clear_prefetch():
     else:
         print("⚠️ Prefetch directory not found.")
 
+# def clear_prefetch():
+#     prefetch_path = r"C:\Windows\Prefetch"
+#     print("🧹 Clearing prefetch files...")
+#     if os.path.exists(prefetch_path):
+#         try:
+#             for file in os.listdir(prefetch_path):
+#                 file_path = os.path.join(prefetch_path, file)
+#                 os.remove(file_path)
+#             print("✅ Prefetch files cleared.")
+#         except Exception as e:
+#             print("⚠️ Unable to clear some files (Admin rights may be required).")
+#     else:
+#         print("⚠️ Prefetch directory not found.")
+
 def clear_recycle_bin():
     print("🗑️ Emptying Recycle Bin...")
     try:
@@ -84,3 +98,4 @@ if __name__ == "__main__":
         start = time.time()
         optimize_system()
         print(f"\n⏱️ Total time taken: {round(time.time() - start, 2)} seconds")
+
