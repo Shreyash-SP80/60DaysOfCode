@@ -3,7 +3,7 @@ import psutil
 import shutil
 import tempfile
 import time
-import platform
+import platform 
 
 def clear_temp_files():
     print("🧹 Clearing temporary files...")
@@ -98,4 +98,5 @@ if __name__ == "__main__":
         start = time.time()
         optimize_system()
         print(f"\n⏱️ Total time taken: {round(time.time() - start, 2)} seconds")
+
 
