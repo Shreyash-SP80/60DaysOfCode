@@ -4,7 +4,7 @@ import sys
 # This script is used for automate c++ file running process
 def compile_and_run(filename):
     if not filename.endswith(".cpp"):
-        print("Error: Please provide a .cpp file")
+        print("Error: Please provide a .cpp file") 
         return
     
     # Output executable name
@@ -37,4 +37,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
