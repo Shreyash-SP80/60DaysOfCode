@@ -7,7 +7,7 @@ The goal is to **maintain a GitHub streak, improve consistency, and grow as a de
 ---
   
 ## 📊 Progress Tracker
-
+ 
 | Day | Notes | DSA Problems | Project Work | Script |
 |-----|--------|--------------|--------------|--------| 
 | 1   | [Day01/notes.md](Day01/Note.md) | 3 | - | Basic File Renamer |
